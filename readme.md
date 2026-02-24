@@ -7,3 +7,8 @@ Pseudocode:
                                                    anything else(0 or 10) --  skip
 4. Compare the returned value with inputted value accordingly print who won
 5. If value is same, again prompt them to enter value again and rerun the conditional(Make conditional as recursive function, Iggg +_+)
+
+After Reading Other People Code-- Realizations:
+1. Better to use `` for messages as better formatting
+2. Differentiating each loss and explain
+3. Having no GUI is ok but I feel like its cooler, I'll come back!
